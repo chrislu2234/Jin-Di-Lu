@@ -8,9 +8,7 @@ This repository/profile primarily hosts my work in Data Analysis and Web Develop
 
 Outside of my studies, I enjoy reading works in Psychology, Philosophy, Sociology, Literature, and Economics. I spend my spare time playing League of Legends and TFT.
 
-As of last updating this, I'm currently reading Weike Wang's semi-biographical novel "Chemistry" and Byung-Chul Han's "The Burnout Society".
-
-My current favourite works that I would highly recommend are: James Davies' "Sedated," Wayde Compton's "The Outer Harbour," Ha-Joon Chang's "23 Things They Don't Tell You About Capitalism," and of course Levitt and Dubner's "Freakonomics."
+As of last updating this, I'm currently reading Weike Wang's semi-biographical novel "Chemistry" and Byung-Chul Han's "The Burnout Society". My current favourite works  are: James Davies' "Sedated," Wayde Compton's "The Outer Harbour," Ha-Joon Chang's "23 Things They Don't Tell You About Capitalism," and of course Levitt and Dubner's "Freakonomics." I highly recommend giving them a read.
 
 Starting Mid-April, I'll working on a project that draws data from the Riot API in real time to provide complex analysis of post-game stats in League of Legends. 
 
