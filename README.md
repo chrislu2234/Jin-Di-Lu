@@ -1,5 +1,4 @@
-# chrislu2234
-Hello There!😊😊
+# Hello There!😊😊
 
 I'm Jin, but you can just call me Chris.
 
