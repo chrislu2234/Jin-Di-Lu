@@ -10,8 +10,6 @@ Outside of my studies, I enjoy reading works in Psychology, Philosophy, Sociolog
 
 As of last updating this, I'm currently reading Weike Wang's semi-biographical novel "Chemistry" and Byung-Chul Han's "The Burnout Society". My current favourite works  are: James Davies' "Sedated," Wayde Compton's "The Outer Harbour," Ha-Joon Chang's "23 Things They Don't Tell You About Capitalism," and of course Levitt and Dubner's "Freakonomics." I highly recommend giving them a read.
 
-Starting Mid-April, I'll working on a project that draws data from the Riot API in real time to provide complex analysis of post-game stats in League of Legends. 
-
 I'm also interested in applying into Graduate School in the United States. Let me know if you're interested in my work and what I have to offer!
 
 You can reach me at: chrislu2234@gmail.com
